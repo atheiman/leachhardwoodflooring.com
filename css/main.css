@@ -15,6 +15,15 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 
+#callLink {
+  color: #C2E0FF;
+  font-weight: bold;
+}
+
+#callLink:hover {
+  text-decoration: underline;
+}
+
 .carousel-inner .item img {
   height: 300px;
 }
